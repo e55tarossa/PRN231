@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tri Dac\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tri Dac\\.nuget\\packages"
+    ]
+  }
+}
